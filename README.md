@@ -1,5 +1,8 @@
 # Smartphone and smartwatch inertial measurements from heterogeneous subjects for human activity recognition
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/GeoTecINIT/sp-sw-har-dataset/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8199666.svg)](https://doi.org/10.5281/zenodo.8199666)
+
 This repository contains the dataset and contents described in the _"Dataset of inertial measurements of smartphones and smartwatches for human activity recognition"_ data article. 
 
 
