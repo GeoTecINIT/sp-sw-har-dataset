@@ -1,7 +1,6 @@
 # Smartphone and smartwatch inertial measurements from heterogeneous subjects for human activity recognition
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/GeoTecINIT/sp-sw-har-dataset/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8199666.svg)](https://doi.org/10.5281/zenodo.8199666)
 
 This repository contains the dataset and contents described in the _"Dataset of inertial measurements of smartphones and smartwatches for human activity recognition"_ data article. 
 
@@ -21,7 +20,7 @@ This repository contains the dataset and contents described in the _"Dataset of 
     - _timestamp_: when the sample was collected, UNIX timestamp.
     - _label_: activity associated to the sample.
 - [`executions_info.csv`](./DATA/executions_info.csv): file with information about the activity sequences executions (phone orientation, first turn and second turn direction).
-- [`subjects_info.csv`](./DATA/subjects_info.csv): file with information about the subjects (age, gender, and number of activity sequences executed).
+- [`subjects_info.csv`](./DATA/subjects_info.csv): file with information about the subjects (age, gender, height (cm), weight (kg), dominand hand and number of activity sequences executed).
 
 **Code:**
 
