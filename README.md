@@ -56,3 +56,11 @@ The dataset in this repository is licensed under [Creative Commons Attribution 4
 
 All contained code in the `utils` package is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
+
+## Acknowledgements
+
+This work has been funded by the Spanish Ministry of Universities [grant FPU19/05352], by MCIN/AEI/10.13039/501100011033 [grants PID2020-120250RB-I00, PID2022-1404475OB-C21, PID2022-1404475OB-C22] and the AICO 2023 project [grant 
+ CIAICO/2022/111] of the Department of Innovation, Universities, Science and Digital Society of the Valencian Government, Spain.
+
+
+
